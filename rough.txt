@@ -1,6 +1,0 @@
-git init
-New-Item index.html
-
-git add _file name__
-
-git add . 
